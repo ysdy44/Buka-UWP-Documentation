@@ -4,7 +4,7 @@
 
 布卡漫画-最受欢迎的漫画应用,正版高清漫画平台,连载众多日漫正版授权及原创精品漫画内容!我们致力于为作者建造良好的创作环境,为广大漫画爱好者提供更多优质的漫画。
 Windows 10 应用商店地址： 
-[Buy 布卡漫画UWP - Microsoft Store](https://www.microsoft.com/en-us/p/布卡漫画uwp/9n4hkl63jjzd?activetab=pivot:overviewtab)   
+[Buy 布卡漫画UWP - Microsoft Store](https://apps.microsoft.com/detail/9n4hkl63jjzd)   
 
 布卡漫画UWP V1.2.2正式版是布卡漫画的第三方软件（指非官方的客户端）
 作为一款根植于Windows 10 平台的Universal Windows Platform应用，它的大多数体验与iOS/And平台上的客户端各有千秋。
